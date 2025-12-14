@@ -62,7 +62,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 This portfolio started as a BootstrapMade template and was converted into an Angular project during a mentored bootcamp.
 
-Initial Angular setup and project structure: created with guidance from [@milazmidza].
+Initial Angular setup and project structure: created with guidance from @milazmidza.
 
 I customized the content, sections, and layout to reflect my own profile and projects.
 
