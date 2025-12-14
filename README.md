@@ -60,7 +60,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## Credits
 
-This portfolio started a as BootstrapMade template and was converted into an Angular project during a mentored bootcamp.
+This portfolio started as a BootstrapMade template and was converted into an Angular project during a mentored bootcamp.
 
 Initial Angular setup and project structure: created with guidance from [@milazmidza].
 
